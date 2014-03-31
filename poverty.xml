@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<document>
+   <state id="Alabama">
+      <povertyAllAges>895,515</povertyAllAges>
+      <povertyUnder18>306,451</povertyUnder18>
+      <povertyFive>208,811</povertyFive>
+   </state>
+   
+   <state id="Alaska">
+      <povertyAllAges>77,494</povertyAllAges>
+      <povertyUnder18>28,125</povertyUnder18>
+      <povertyFive>17,409</povertyFive>
+   </state>
+   
+   <state id="Arizona">
+      <povertyAllAges>1,195,931</povertyAllAges>
+      <povertyUnder18>430,378</povertyUnder18>
+      <povertyFive>291,886</povertyFive>
+   </state>
+   
+   <state id="Arkansas">
+      <povertyAllAges>560,928</povertyAllAges>
+      <povertyUnder18>196,464</povertyUnder18>
+      <povertyFive>133,507</povertyFive>
+   </state>
+   
+   <state id="California">
+      <povertyAllAges>6,323,433</povertyAllAges>
+      <povertyUnder18>2,164,589</povertyUnder18>
+      <povertyFive>1,499,768</povertyFive>
+   </state>
+   
+   <state id="Colorado">
+      <povertyAllAges>688,715</povertyAllAges>
+      <povertyUnder18>220,133</povertyUnder18>
+      <povertyFive>148,544</povertyFive>
+   </state>
+   
+   <state id="Connecticut">
+      <povertyAllAges>370,537</povertyAllAges>
+      <povertyUnder18>114,613</povertyUnder18>
+      <povertyFive>79,315</povertyFive>
+   </state>
+   
+<state id="Delaware">
+      <povertyAllAges>113,316</povertyAllAges>
+      <povertyUnder18>38,462</povertyUnder18>
+      <povertyFive>25,169</povertyFive>
+   </state>
+
+<state id="District of Colombia">
+      <povertyAllAges>112,719</povertyAllAges>
+      <povertyUnder18>31,615</povertyUnder18>
+      <povertyFive>20,544</povertyFive>
+      
+   </state><state id="Florida">
+      <povertyAllAges>3,248,276</povertyAllAges>
+      <povertyUnder18>1,011,096</povertyUnder18>
+      <povertyFive>693,284</povertyFive>
+   </state>
+
+   <state id="Georgia">
+      <povertyAllAges>1,847,371</povertyAllAges>
+      <povertyUnder18>621,972</povertyUnder18>
+      <povertyFive>457,339</povertyFive>
+   </state>
+   
+   <state id="Hawaii">
+      <povertyAllAges>159,988</povertyAllAges>
+      <povertyUnder18>51,557</povertyUnder18>
+      <povertyFive>33,910</povertyFive>
+   </state>
+   
+   <state id="Idaho">
+      <povertyAllAges>250,203</povertyAllAges>
+      <povertyUnder18>89,672</povertyUnder18>
+      <povertyFive>59,158</povertyFive>
+   </state>
+   
+   <state id="Illinois">
+      <povertyAllAges>1,847,371</povertyAllAges>
+      <povertyUnder18>621,972</povertyUnder18>
+      <povertyFive>425,733</povertyFive>
+   </state>
+   
+   <state id="Iowa">
+      <povertyAllAges>377,110</povertyAllAges>
+      <povertyUnder18>114,105</povertyUnder18>
+      <povertyFive>73,339</povertyFive>
+   </state>
+   
+   <state id="Kansas">
+      <povertyAllAges>392,095</povertyAllAges>
+      <povertyUnder18>135,261</povertyUnder18>
+      <povertyFive>87,594</povertyFive>
+   </state>
+   
+   <state id="Kentucky">
+      <povertyAllAges>821,067</povertyAllAges>
+      <povertyUnder18>263,744</povertyUnder18>
+      <povertyFive>176,603</povertyFive>
+   </state>
+   
+<state id="Louisiana">
+      <povertyAllAges>900,395</povertyAllAges>
+      <povertyUnder18>315,185</povertyUnder18>
+      <povertyFive>214,695</povertyFive>
+   </state>
+
+<state id="Maine">
+      <povertyAllAges>186,484</povertyAllAges>
+      <povertyUnder18>51,386</povertyUnder18>
+      <povertyFive>33,943</povertyFive>
+    </state>
+
+   <state id="Maryland">
+      <povertyAllAges>597,705</povertyAllAges>
+      <povertyUnder18>187,400</povertyUnder18>
+      <povertyFive>123,500</povertyFive>
+   </state>
+   
+   <state id="Massachusetts">
+      <povertyAllAges>762,971</povertyAllAges>
+      <povertyUnder18>213,611</povertyUnder18>
+      <povertyFive>144,306</povertyFive>
+   </state>
+   
+   <state id="Michigan">
+      <povertyAllAges>1,677,776</povertyAllAges>
+      <povertyUnder18>549,131</povertyUnder18>
+      <povertyFive>376,004</povertyFive>
+   </state>
+   
+   <state id="Minnesota">
+      <povertyAllAges>597,515</povertyAllAges>
+      <povertyUnder18>183,595</povertyUnder18>
+      <povertyFive>119,040</povertyFive>
+   </state>
+   
+   <state id="Missouri">
+      <povertyAllAges>945,435</povertyAllAges>
+      <povertyUnder18>310,382</povertyUnder18>
+      <povertyFive>205,173</povertyFive>
+   </state>
+   
+   <state id="Montana">
+      <povertyAllAges>153,105</povertyAllAges>
+      <povertyUnder18>45,923</povertyUnder18>
+      <povertyFive>30,052</povertyFive>
+   </state>
+   
+   <state id="Nebraska">
+      <povertyAllAges>230,375</povertyAllAges>
+      <povertyUnder18>78,806</povertyUnder18>
+      <povertyFive>51,189</povertyFive>
+   </state>
+   
+<state id="Nevada">
+      <povertyAllAges>441,373</povertyAllAges>
+      <povertyUnder18>152,664</povertyUnder18>
+      <povertyFive>101,584</povertyFive>
+   </state>
+
+<state id="New Jersey">
+      <povertyAllAges>934,277</povertyAllAges>
+      <povertyUnder18>308,293</povertyUnder18>
+      <povertyFive>208,759</povertyFive>
+   </state>
+
+   <state id="New Mexico">
+      <povertyAllAges>421,123</povertyAllAges>
+      <povertyUnder18>146,710</povertyUnder18>
+      <povertyFive>98,654</povertyFive>
+   </state>
+   
+   <state id="New York">
+      <povertyAllAges>3,040,207</povertyAllAges>
+      <povertyUnder18>968,025</povertyUnder18>
+      <povertyFive>658,627</povertyFive>
+   </state>
+   
+   <state id="North Carolina">
+      <povertyAllAges>1,706,255</povertyAllAges>
+      <povertyUnder18>581,594</povertyUnder18>
+      <povertyFive>392,122</povertyFive>
+   </state>
+   
+   <state id="North Dakota">
+      <povertyAllAges>75,251</povertyAllAges>
+      <povertyUnder18>20,684</povertyUnder18>
+      <povertyFive>12,555</povertyFive>
+   </state>
+   
+   <state id="Ohio">
+      <povertyAllAges>1,818,886</povertyAllAges>
+      <povertyUnder18>617,006</povertyUnder18>
+      <povertyFive>411,818</povertyFive>
+   </state>
+   
+   <state id="Oklahoma">
+      <povertyAllAges>636,134</povertyAllAges>
+      <povertyUnder18>221,664</povertyUnder18>
+      <povertyFive>145,829</povertyFive>
+   </state>
+   
+   <state id="Oregon">
+      <povertyAllAges>651,102</povertyAllAges>
+      <povertyUnder18>191,922</povertyUnder18>
+      <povertyFive>124,909</povertyFive>
+   </state>
+   
+<state id="Pennsylvania">
+      <povertyAllAges>1,688,364</povertyAllAges>
+      <povertyUnder18>527,373</povertyUnder18>
+      <povertyFive>354,232</povertyFive>
+   </state>
+
+<state id="Rhode Island">
+      <povertyAllAges>143,625</povertyAllAges>
+      <povertyUnder18>44,355</povertyUnder18>
+      <povertyFive>29,653</povertyFive>
+   </state>
+
+   <state id="South Carolina">
+      <povertyAllAges>837,327</povertyAllAges>
+      <povertyUnder18>285,674</povertyUnder18>
+      <povertyFive>192,338</povertyFive>
+   </state>
+   
+   <state id="South Dakota">
+      <povertyAllAges>109,661</povertyAllAges>
+      <povertyUnder18>36,950</povertyUnder18>
+      <povertyFive>22,460</povertyFive>
+   </state>
+   
+   <state id="Tennessee">
+      <povertyAllAges>1,135,205</povertyAllAges>
+      <povertyUnder18>383,402</povertyUnder18>
+      <povertyFive>260,624</povertyFive>
+   </state>
+   
+   <state id="Texax">
+      <povertyAllAges>4,565,185</povertyAllAges>
+      <povertyUnder18>1,777,177</povertyUnder18>
+      <povertyFive>1,207,456</povertyFive>
+   </state>
+   
+   <state id="Utah">
+      <povertyAllAges>364,124</povertyAllAges>
+      <povertyUnder18>135,453</povertyUnder18>
+      <povertyFive>88,371</povertyFive>
+   </state>
+   
+   <state id="Vermont">
+      <povertyAllAges>71,626</povertyAllAges>
+      <povertyUnder18>19,044</povertyUnder18>
+      <povertyFive>12,604</povertyFive>
+   </state>
+   
+   <state id="Virginia">
+      <povertyAllAges>936,384</povertyAllAges>
+      <povertyUnder18>283,035</povertyUnder18>
+      <povertyFive>189,191</povertyFive>
+   </state>
+   
+<state id="Washington">
+      <povertyAllAges>916,976</povertyAllAges>
+      <povertyUnder18>288,376</povertyUnder18>
+      <povertyFive>187,812</povertyFive>
+   </state>
+
+<state id="West Virginia">
+      <povertyAllAges>323,978</povertyAllAges>
+      <povertyUnder18>93,742</povertyUnder18>
+      <povertyFive>62,933</povertyFive>
+   </state>
+
+<state id="Wisconsin">
+      <povertyAllAges>738,226</povertyAllAges>
+      <povertyUnder18>236,475</povertyUnder18>
+      <povertyFive>157,218</povertyFive>
+   </state>
+   
+<state id="Wyoming">
+      <povertyAllAges>66,879</povertyAllAges>
+      <povertyUnder18>20,306</povertyUnder18>
+      <povertyFive></povertyFive>
+   </state>
+
+<gender id="female">
+    <Sixtyfiveplus>11.0</Sixtyfiveplus>
+    <EighteenToSixtyfour>15.4</EighteenToSixtyfour>
+    <UnderEighteen>22.3</UnderEighteen>
+    
+</gender>
+
+<gender id="male">
+    <Sixtyfiveplus>6.6</Sixtyfiveplus>
+    <EighteenToSixtyfour>11.9</EighteenToSixtyfour>
+    <UnderEighteen>21.3</UnderEighteen>
+</gender>
+</document>
